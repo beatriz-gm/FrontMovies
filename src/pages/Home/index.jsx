@@ -13,7 +13,7 @@ export function Home() {
   useEffect(() => {
     const title = data.search
     const params = new URLSearchParams({title}).toString();
-    const url = `http://localhost:3333/movies?${params}`;
+    const url = `https://backmovies-1.onrender.com${params}`;
     
     async function fetchMovies() {
       const data = await fetch(url,
