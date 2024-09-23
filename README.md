@@ -2,7 +2,7 @@
 
 * FrontEnd da aplicação em React e Node.js onde o usuário cadastra um filme, preenche com algumas informações (nome, descrição, nota) e cria tags relacionadas a ele.
 
-![alt text](client/src/assets/logIn.png "layout")
+![alt text](src/assets/logIn.png "layout")
   
 ## Detalhes adicionados ao projeto:
 - Criptografia de senhas;
