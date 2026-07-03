@@ -21,5 +21,6 @@ npm install
 
 npm run dev
 ```
+## Acessar projeto - moviesbyrocketseat.netlify.app
 
 ### By: [Beatriz Galvão](https://www.linkedin.com/in/beatriz-galmed/) 💜
