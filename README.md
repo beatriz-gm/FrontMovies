@@ -21,6 +21,7 @@ npm install
 
 npm run dev
 ```
-## Acessar projeto - moviesbyrocketseat.netlify.app
+## Acessar projeto
+<a href="https://moviesbyrocketseat.netlify.app/" target="_blank">https://moviesbyrocketseat.netlify.app/</a>
 
 ### By: [Beatriz Galvão](https://www.linkedin.com/in/beatriz-galmed/) 💜
