@@ -24,4 +24,5 @@ npm run dev
 ## Acessar projeto
 <a href="https://moviesbyrocketseat.netlify.app/" target="_blank">https://moviesbyrocketseat.netlify.app/</a>
 
-### By: [Beatriz Galvão](https://www.linkedin.com/in/beatriz-galmed/) 💜
+### By:
+[Beatriz Medina](https://www.linkedin.com/in/beatriz-galmed/) 💜
